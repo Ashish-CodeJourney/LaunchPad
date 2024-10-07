@@ -73,7 +73,7 @@ Launchpad was born from the need to `<solve a specific problem or improve a proc
 <div align="center">
 <strong>🌟 If Launchpad has been helpful, consider giving it a star! 🌟</strong><br><br>
 <a href="https://github.com/Ashish-CodeJourney">More Projects</a> •
-<a href="https://your-blog-url.com">Blog</a> •
-<a href="https://twitter.com/your-twitter-handle">Twitter</a> •
-<a href="https://linkedin.com/in/your-linkedin-profile">LinkedIn</a>
+<a href="https://dev.to/codejourney">Blog</a> •
+<a href="https://twitter.com/codejourney_">Twitter</a> •
+<a href="https://linkedin.com/in/ashish-codejourney">LinkedIn</a>
 </div>
