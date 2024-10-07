@@ -1,6 +1,6 @@
 # <div align="center">
 
-# [Launchpad]
+# Launchpad
 
 <p>
   <img src="https://img.shields.io/github/license/Ashish-CodeJourney/Launchpad?style=flat-square&color=5D6D7E" alt="License"/>
