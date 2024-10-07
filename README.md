@@ -2,11 +2,12 @@
 
 # [Launchpad]
 
-<img src="https://img.shields.io/github/license/Ashish-CodeJourney/Launchpad?style=flat-square&color=5D6D7E" alt="License"/>
-<img src="https://img.shields.io/github/stars/Ashish-CodeJourney/Launchpad?style=flat-square&color=5D6D7E" alt="Stars"/>
-<img src="https://img.shields.io/github/forks/Ashish-CodeJourney/Launchpad?style=flat-square&color=5D6D7E" alt="Forks"/>
-<img src="https://img.shields.io/github/issues/Ashish-CodeJourney/Launchpad?style=flat-square&color=5D6D7E" alt="Issues"/>
-
+<p>
+  <img src="https://img.shields.io/github/license/Ashish-CodeJourney/Launchpad?style=flat-square&color=5D6D7E" alt="License"/>
+  <img src="https://img.shields.io/github/stars/Ashish-CodeJourney/Launchpad?style=flat-square&color=5D6D7E" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/Ashish-CodeJourney/Launchpad?style=flat-square&color=5D6D7E" alt="Forks"/>
+  <img src="https://img.shields.io/github/issues/Ashish-CodeJourney/Launchpad?style=flat-square&color=5D6D7E" alt="Issues"/>
+</p>
 <h3>Elevate Your Coding Journey! 🚀💻</h3>
 
 <figure>
